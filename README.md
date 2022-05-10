@@ -2,4 +2,4 @@
 
 # EC-KitY: Evolutionary Computation Tool Kit in Python
 
-The repo is available at https://github.com/EC-KitY/EC-KitY
+**The repo is available at https://github.com/EC-KitY/EC-KitY**
